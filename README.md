@@ -11,6 +11,7 @@ SaaS platforms · REST APIs · Enterprise systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thabetrighi.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://thabetrighi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thabet--righi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabet-righi)
+[![GitLab](https://img.shields.io/badge/GitLab-righi06thabet-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/righi06thabet)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0153d290a7f07f5be2)
 [![Email](https://img.shields.io/badge/Email-contact%40thabetrighi.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@thabetrighi.com)
 
@@ -76,6 +77,7 @@ I'm open to **freelance**, **contract**, and **remote** opportunities.
 
 - 🌐 Portfolio: [thabetrighi.com](https://thabetrighi.com)  
 - 💼 LinkedIn: [linkedin.com/in/thabet-righi](https://www.linkedin.com/in/thabet-righi)  
+- 🦊 GitLab: [gitlab.com/righi06thabet](https://gitlab.com/righi06thabet)  
 - 🟢 Upwork: [Hire me](https://www.upwork.com/freelancers/~0153d290a7f07f5be2)  
 - ✉️ Email: [contact@thabetrighi.com](mailto:contact@thabetrighi.com)  
 
